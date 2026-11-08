@@ -1,4 +1,4 @@
-# Tool Calling – Script B refactorisé
+# Tool Calling
 
 Assistant en ligne de commande qui répond à une question en laissant un LLM
 (via OpenRouter) appeler des outils Python : l'heure locale et la météo d'une ville.
